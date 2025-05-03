@@ -10,7 +10,7 @@ Evaluating economic viability of crude supply options.
 
 Supporting market-based pricing differentials, particularly when negotiating crude sales or substitutions.
 
-Importantly, netback is not universal—it is refinery- and operation-specific, highly dependent on:
+Netback is not universal—it is refinery- and operation-specific, highly dependent on:
 
 The refiner's configuration (e.g., complexity, conversion capacity).
 
