@@ -19,7 +19,7 @@ Throughput rates, utilization, and yield profiles.
 Location, which affects logistics costs and applicable fiscal regimes.
 
 Thus, while it serves as a proxy for economic efficiency per barrel, netback must be contextualized within the refiner's actual processing environment for meaningful comparison or decision-making.
-____________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________
 
 Use in Refinery Optimization
 Refiners use netback in scenario-based optimization models to evaluate and rank different crude options:
@@ -31,6 +31,7 @@ LP Modeling: Yield profiles, product pricing, and unit constraints are modeled t
 Dynamic Strategy: Refineries adjust crude slates over time, selecting barrels that maximize netback-adjusted refining margins.
 
 **Disclaimer**
+_____________________________________________________________________________
 
 This repository is intended solely for educational and illustrative purposes. 
 
