@@ -18,7 +18,7 @@ Throughput rates, utilization, and yield profiles.
 
 Location, which affects logistics costs and applicable fiscal regimes.
 
-Thus, while it serves as a proxy for economic efficiency per barrel, netback must be contextualized within the refiner's actual processing environment for meaningful comparison or decision-making.
+While it serves as a proxy for economic efficiency per barrel, netback must be contextualized within the refiner's actual processing environment for meaningful comparison or decision-making.
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
 Use in Refinery Optimization
