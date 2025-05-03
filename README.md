@@ -32,6 +32,13 @@ Dynamic Strategy: Refineries adjust crude slates over time, selecting barrels th
 
 _____________________________________________________________________________
 
+## Structure
+
+- `code/` — Contains the code scripts of MLR, MLP and NARX (deducted).
+- `data/` — Contains sample datasets
+
+_____________________________________________________________________________
+
 **Disclaimer**
 
 This repository is intended solely for educational and illustrative purposes. 
