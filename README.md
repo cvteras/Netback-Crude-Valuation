@@ -35,7 +35,7 @@ _____________________________________________________________________________
 ## Structure
 
 - `code/` — Python-based scenario analysis that models crude slate sensitivity by simulating netback variations across a blended mix of crude oils (e.g., WTI, Mars, Brent) under changing price conditions. Each crude contributes to the slate based on user-defined weights, with per-barrel operational costs and taxes factored into the netback margin.
-"""
+
 - `data/` — Contains sample dataset & example in an .xlsx format for reference only
 
 _____________________________________________________________________________
