@@ -52,6 +52,6 @@ _____________________________________________________________________________
 
 This repository is intended solely for educational and illustrative purposes. 
 
-It contains only publicly available or hypothetical information and does not use or disclose any proprietary, confidential, or commercially sensitive data, breaching no NDAs, non-Compete or other agreements
+It contains only publicly available or hypothetical information and does not use or disclose any proprietary, confidential, or commercially sensitive data, breaching no NDAs, non-Compete or other agreements.
 
 
