@@ -30,8 +30,9 @@ LP Modeling: Yield profiles, product pricing, and unit constraints are modeled t
 
 Dynamic Strategy: Refineries adjust crude slates over time, selecting barrels that maximize netback-adjusted refining margins.
 
-**Disclaimer**
 _____________________________________________________________________________
+
+**Disclaimer**
 
 This repository is intended solely for educational and illustrative purposes. 
 
